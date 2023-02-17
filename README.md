@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Arbyl
 - 🌱 I’m currently learning Angular
-- 📫 How to reach me: aflara123@gmail.com
+
