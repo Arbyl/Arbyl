@@ -34,7 +34,7 @@ I'm a **Fullstack Developer** passionate about building modern and scalable web 
 ## 📫 Connect with Me!
 
 - [LinkedIn](https://www.linkedin.com/in/arobayo)
-- [Portfolio](https://www.arbyl.me.com)
+- [Portfolio](https://www.arbyl.me)
 - [Email](mailto:aflara123@gmail.com)
 
 ---
